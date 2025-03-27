@@ -139,6 +139,26 @@ whats next ?
 
 
 
+For ReAct Prompting read this : 
+[](https://x.com/i/grok/share/0Wdny6n1hLRRlRM6EodOACwU3)
+
+We can never create a LLM like chat as the train cost is very expensive in  terms of resources 
+
+SO more than learning AI/ML , Learning LangChain is beneficial 
+
+LangChain is open-source framework to build applications using LLMS (Large Language Models) 
+
+![image](https://github.com/user-attachments/assets/207ad028-0050-438c-8ceb-f19d63d02c5f)
+
+Langchain abstracts the complexity of interaction of multiple apis happening one after the other in a specified sequence 
+
+Langchain Deals with LLMS , Prompt templates 
+
+Using Langchain can create chains and Agents as well 
+
+Agents automate things like by creating workflows allowing to automate the sequence of data and responses between mutliple apis 
+
+![image](https://github.com/user-attachments/assets/7e87da67-ce89-47f2-9b99-52e09a011ac3)
 
 
 
