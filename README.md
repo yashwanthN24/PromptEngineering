@@ -63,7 +63,7 @@ Explain your thought process for a problem with its solution and ask for a simil
 But COT fails for aptitude and reasoning like for complex ones So we use 
 
 # self consistency 
-
+ 
 ![image](https://github.com/user-attachments/assets/4b81bf3b-f187-4003-8e22-4952c35e27d9)
 
 ![](https://arxiv.org/abs/2203.11171)
@@ -74,6 +74,68 @@ To ask about present match can give commentary from cricbuzz and do the needed p
 
 ![image](https://github.com/user-attachments/assets/3a0d2bae-de8b-4110-9b79-5f04ea5f8ca1)
 
+# Role Play Prompting ( Role Playing ) 
+
+Since LLM is super inteligent it knows about all domain so role Playing is important to tailor your response with respect to your domain 
+
+Three Steps in this way of prompting 
+1) Role Assignment : Ex: Your are an experienced Doctor   Ex : Your are Experienced devops engineer
+2) Actual Question you want to ask for
+3) Output Instruction : Means in what format you want the output as like csv or just plain response explaination text Ex : Programming Language means which language and which package
+
+ Ex: answer in yes or no format or json format etc
+
+ Ex: You are an experienced software engineer . I want to generate QR code for website . Provide the code in Javascript with step by step explaination 
+
+ You are an experienced software engineer . => Role Assignment 
+ 
+I want to generate QR code for website . => Actual Question 
+
+Provide the code in Javascript with step by step explaination  => Output Instruction 
+
+Ex2 : You are experienced script writer . I want script for a youtube video on chatgpt . Make it engaging with hooks and interesting elements 
+
+# RAG Prompting 
+
+- Retrieval Augumented Generation (RAG)
+- Generation as LLMs generate the response Augumented as they add some things in the response Retrieval maans get some data
+- LLMS work based on the context
+
+- So to your LLM for your Companie Queries chatbot Obviously LLMS wont be trained with your company data so you can use RAG prompting there 
+- We have to add out company data for LLMS context
+
+- We first retrive Company data
+- then we augument or add that company data in our prompt
+- Finally with this augumented prompt we generate our required response
+
+
+  ![image](https://github.com/user-attachments/assets/78dc7a48-0d03-4284-b5e8-a8b438e3ca2e)
+
+  Retrival => Involves
+  1)Data source
+  2) Indexing the data
+  3) Querying
+  4) Ranking
+
+  RAG is used when ur using LLM through APIS
+
+  we retreive data from external data source , we augument that with our prompt and finally generate the response using that prompt through the LLMs apis
+
+  But using RAG we provide additional context that LLMs are not trained with ( and LLM dont have this info ) 
+
+  Through UI means can use out of data Prompting
+
+  Implementation
+  - with Langchain (Python)
+  - without Langchain (Python)
+
+
+whats next ? 
+
+- AutoPrompting
+- ReAct prompting
+- LangChain
+- In Hugging Face Learn about transformers and Transformer models 
 
 
 
