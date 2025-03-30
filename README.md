@@ -162,6 +162,56 @@ Agents automate things like by creating workflows allowing to automate the seque
 
 
 
+Conclusion 
 
+# The More Step by Step prompt you give to LLMS , you will get a better results for it 
+
+- prompt => 1) Persona
+            2) Task - that what work need to be done  
+            3) Context - what are the things . what is going to happen
+Example: Your are a witty social media expert Give me a funny instagram caption about happily coding 12 hours straight
+
+ Your are a witty social media expert => Persona
+ Give me a funny instagram caption => Task 
+about happily coding 12 hours straight => Context
+
+Now with this prompt GPT knew what had to be done, when ,what are writing the psot for 
+
+This is called Multi step prompting that works on persona , task and context
+
+Noe you can compare the generative AI with mimicry artist , the more you teach it , the better context you give it . you will be getting better 
+output
+
+So Persona , Task and Context are like buidling blocks for an effective prompt 
+
+Also Adding this line " Lets think step by step " in the prompt also proves to be effective in terms of results 
+
+
+Ex : What's the meaning of life 
+     Let's Think Step By Step 
+
+Prompt engineering is not about complexity its about how simple you keep the prompt 
+
+How simple can you divide the task/it into multiple steps, 
+Tell about it , you can explain your problem and if your able to tell the type of result you want then you will get to see better final results 
+
+For Beginners Just focus on two things 
+
+1) Multi Step Prompting as mentioned Above
+
+2) Adaptive prompting
+
+In Adaptive Prompting , You need to add a little more context with existing information 
+with the help of which , ChatGPT or any LLMs can analyse the information in an even better way 
+
+it will be able to fix the problems and give you good output 
+
+
+
+ 
+
+ 
+
+  
 
 
