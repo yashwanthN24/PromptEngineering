@@ -208,6 +208,27 @@ it will be able to fix the problems and give you good output
 
 
 
+MCP ( Model Context Protocol )  Trend because of AI Agents Trend 
+
+Understanding AI Agents LLMS are like the brains If we actions (to perform to the brain) its AI AGENT , Its like giving Body to a brain 
+
+M - Model Simply means LLM (Large Language Model)
+
+C - Context ( Simply put information )
+
+LLMS are Super intelligents but they dont make any assumptions ( so we have to provide information to LLM , the context) 
+
+Humans usually make assumptions AI doesn't
+
+P - Protocol ( Set of rules )  Ex: Http a simple protocol that tells the rules for communication between a browser and a server 
+
+MCP
+
+
+
+
+
+
  
 
  
