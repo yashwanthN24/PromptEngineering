@@ -204,8 +204,64 @@ For Beginners Just focus on two things
 In Adaptive Prompting , You need to add a little more context with existing information 
 with the help of which , ChatGPT or any LLMs can analyse the information in an even better way 
 
-it will be able to fix the problems and give you good output 
+it will be able to fix the problems and give you good output
 
+3 Main Things 
+- Persona
+- Task/work
+- Context
+
+![image](https://github.com/user-attachments/assets/b74de281-b63b-4b6b-b3fb-637e089bace5)
+
+![image](https://github.com/user-attachments/assets/91da2557-3b11-493a-a57d-4e4b296200fa)
+
+![image](https://github.com/user-attachments/assets/fec94195-a5a8-425d-b5ec-7e9e226fb3a0)
+
+![image](https://github.com/user-attachments/assets/f4c40d9c-05ab-42fb-9507-71fa8c5fef71)
+
+![image](https://github.com/user-attachments/assets/3b876ecf-ae5e-4b86-9239-b9e3a827233a)
+
+![image](https://github.com/user-attachments/assets/5ce1d900-d1a5-4f15-a1ef-baed161698ef)
+
+![image](https://github.com/user-attachments/assets/e826b458-2522-465b-8036-8ee30c847801)
+
+![image](https://github.com/user-attachments/assets/3e05efdb-fd69-4314-b489-a61bf11aa216)
+
+![image](https://github.com/user-attachments/assets/abb425dd-a10f-4ddc-b4eb-ea3ebf6d482c)
+
+![image](https://github.com/user-attachments/assets/e47a17fa-f8c1-4ca8-9c88-fa1ea667c7a2)
+
+MORE YOU USE MORE YOU PROMPT THE BETTER YOU GET AT IT 
+
+CHAIN OF THOUGHT PROMPTING : 
+
+BEFORE : WHAT IS 487 * 87
+
+AFTER CHAIN OF THOUGHT : 
+
+THINK STEP BY STEP FIRST , BREAK DOWN 487 * 87 Into smaller multiplications 
+
+
+
+
+
+
+
+
+
+
+
+
+p value 
+0.2 - 0.3 for preciseness ( less randomness and less creativity ) This very good for research work , medical field and  coding , Provides reliable and accurate information 
+
+0.4-0.7 For day to day general tasks 
+
+0.85 - 0.95 for creative tasks 
+
+0.96 - 1 will give random output 
+
+This P value will be available when ur using LLMS as an api 
 
 
 MCP ( Model Context Protocol )  Trend because of AI Agents Trend 
